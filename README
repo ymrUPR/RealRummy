@@ -1,0 +1,33 @@
+Yadiel Mercado Rivera
+801-19-5597
+CCOM4029-0U1
+High Level Languages
+Prof. Ordonez.
+
+
+The purpose of this README file is to let the reader know how to run this specific Rummy program and to add
+information about its making.
+
+1. First and foremost there are two ways to run this program but only one works as intended.
+    -Write java Proj2 
+     and it will run it from the GUI which runs correctly but doesn't follow any rules
+     since I could not figure out how to work with the GUI well enough.
+
+    
+    -Write: 'java Rummy' in the terminal while inside the directory
+        
+        and it will run an immediate simulated game of Rummy between two extremely
+        idiotic computer players who follow the Rummy rules to heart.
+        This is the recommended way to run this code, as the rules are being followed.
+
+
+2. Assistance during the making of the code
+    During the making of the Rummy.java file, I collaborated with another student named Jantony Velazquez Gauthier 
+    because I needed assistance as to how to even begin coding the play() function and the student gave me bumps and
+    tips to follow in order to make the function like helping figure out the logic and path I wanted to choose to work
+    with the solution to the play() function. I also requested some assistance with minor Java syntax with two friends
+    who are off-campus.
+
+
+3. Extra credit.
+    To my own knowledge, I was not able to do any extra credit work.
